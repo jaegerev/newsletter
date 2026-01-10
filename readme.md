@@ -1,13 +1,13 @@
 # Newsletter-Archiv des J.Ä.G.E.R e.V.
 
-Einfach durch die Ordner stöbern!
+Einfach durch die Ordner mit den Jahreszahlen stöbern!
 
 ***
 
-### Interna
+#### Technisches
 
 Zum Kompilieren:
 
 ```bash
-pandoc input.md --defaults pandoc/defaults.yaml --template pandoc/template.tex -o output.pdf
+pandoc input.md --defaults ../pandoc/defaults.yaml --template ../pandoc/template.tex -o output.pdf
 ```
