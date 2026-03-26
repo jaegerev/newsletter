@@ -4,7 +4,7 @@ Einfach durch die Ordner mit den Jahreszahlen stöbern!
 
 ***
 
-#### Technisches
+### Technisches
 
 Zum Kompilieren:
 
